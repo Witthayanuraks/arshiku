@@ -6,8 +6,7 @@
 [![Vite](https://img.shields.io/badge/Vite-4.0+-646CFF)](https://vitejs.dev)
 [![Tailwind](https://img.shields.io/badge/Tailwind-3.3+-06B6D4)](https://tailwindcss.com)
 
-A modern blog about history, tips & tricks, built with React Vite and styled with Tailwind CSS for peak performance.
-
+[![Demo]](https://arshiku.vercel.app/)
 
 ## Features ✨
 
