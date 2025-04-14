@@ -1,6 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
 import Home from './pages/Home';
 import './index.css';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
